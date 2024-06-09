@@ -50,5 +50,3 @@ python3 app.py
 # Permanent running
 
 nohup python3 -m streamlit run app.py &
-
-```bash
