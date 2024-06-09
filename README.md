@@ -38,16 +38,16 @@ source .venv/bin/activate
 
 # Install requirements
 pip3 install -r requirements.txt
-```bash
 
-### Temporary Running
-```bash
+
+# Temporary Running
+
 python3 -m streamlit run app.py
 # OR
 python3 app.py
-```bash
 
 # Permanent running
-```bash
+
 nohup python3 -m streamlit run app.py &
+
 ```bash
