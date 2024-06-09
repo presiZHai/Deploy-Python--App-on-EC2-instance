@@ -39,14 +39,11 @@ source .venv/bin/activate
 # Install requirements
 pip3 install -r requirements.txt
 
-
 # Temporary Running
-
 python3 -m streamlit run app.py
 
 # OR
 python3 app.py
 
 # Permanent running
-
 nohup python3 -m streamlit run app.py &
