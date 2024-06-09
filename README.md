@@ -43,6 +43,7 @@ pip3 install -r requirements.txt
 # Temporary Running
 
 python3 -m streamlit run app.py
+
 # OR
 python3 app.py
 
